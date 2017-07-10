@@ -1,4 +1,4 @@
-$(call inherit-product-if-exists, vendor/meizu/m3note/m2note-vendor.mk)
+$(call inherit-product-if-exists, vendor/meizu/m3note/m3note-vendor.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
 DEVICE_PATH := device/meizu/m3note

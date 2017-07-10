@@ -42,7 +42,7 @@ dalvik.vm.checkjni=false
 dalvik.vm.stack-trace-file=/data/anr/traces.txt
 
 # Gfx
-ro.opengles.version=196609
+ro.opengles.version=196608
 debug.hwui.render_dirty_regions=false
 
 # device
@@ -97,10 +97,10 @@ ro.mtk_clearmotion_support=1
 
 # SoC
 ro.mediatek.chip_ver=S01
-ro.mediatek.platform=MT6735
-mediatek.wlan.chip=CONSYS_MT6735
-mediatek.wlan.module.postfix=_consys_mt6735
-ro.mediatek.version.release=ALPS.L1.MP3.V2.95_MEIZU6753.65CN.L1
-ro.mediatek.version.branch=L1.MP3.EE.WFC.DEV
-ro.mediatek.project.path=device/meizu/meizu6753_65cn_l1
-ro.product.perf.config=M81-l1_base
+ro.mediatek.platform=MT6755
+mediatek.wlan.chip=CONSYS_MT6755
+mediatek.wlan.module.postfix=_consys_mt6755
+ro.mediatek.version.release=ALPS.L1.MP10.PRE.V1_WT6755.66.SZ.L_P68
+ro.mediatek.version.branch=L1.MP10
+ro.mediatek.project.path=device/meizu/meizu6755_65cn_l1
+ro.product.perf.config=M681-l1_base

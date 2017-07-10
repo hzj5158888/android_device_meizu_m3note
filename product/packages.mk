@@ -42,7 +42,7 @@ PRODUCT_PACKAGES += \
 # Power HAL
 PRODUCT_PACKAGES += \
     power.default \
-    power.mt6753
+    power.mt6755
 
 # LiveDisplay
 PRODUCT_PACKAGES += libjni_livedisplay
